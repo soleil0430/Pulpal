@@ -42,6 +42,9 @@ public class BaseBomb : NetworkBehaviour
     float Timer;
     float Timer2;
     // Start is called before the first frame update
+
+
+    float Somethings = 1.f;
     void Start()
     {
         transform.parent = null;
