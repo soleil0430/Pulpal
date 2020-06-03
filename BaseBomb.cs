@@ -46,7 +46,7 @@ public class BaseBomb : NetworkBehaviour
 
     float Somethings = 1.f;
 
-    float kimbaulssibsaki = 2.0f;
+    float kimbaulssibsaki = 3.0f;
     void Start()
     {
         transform.parent = null;
